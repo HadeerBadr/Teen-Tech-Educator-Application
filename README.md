@@ -32,5 +32,5 @@ To simulate the process of oral exams using an interactive 3D environment that r
 
 ---
 **Thank you for reviewing my application!**  
-— *Hadeer Badr Hassan*
+ *Hadeer Badr Hassan*
 
