@@ -1,40 +1,36 @@
-# 👩‍🏫 Teen Tech Educator Application – Hadeer Badr
+# 🎓 Oral Exam Simulation
 
-This repository is created as part of my application for the role of **Technical Instructor for Teens**. It showcases my teaching philosophy, technical experience, and commitment to simplifying complex technical concepts for young learners.
+This project is a 3D simulation designed to mimic the environment and flow of oral examinations, offering students a realistic and interactive experience to help reduce anxiety and improve preparedness.
 
-## 🎯 Objective
+## 🧠 Objective
+To simulate the process of oral exams using an interactive 3D environment that replicates exam settings, evaluator interaction, and timing dynamics. This simulation can be used as a practice tool for students and as a demonstration for academic institutions.
 
-To empower teenagers with fundamental and advanced knowledge in AI, Data Science, Web Development, and Basic Programming using engaging, real-world examples and interactive teaching methods.
+## 🎯 Features
+- 3D environment representing a typical oral exam room
+- Simulated examiner and student interaction
+- Countdown timer for questions and responses
+- Realistic spatial design and visual/audio feedback
 
-## 🧠 Technical Skills
+## 🛠️ Tools & Technologies
+- Blender / Unity / Any 3D simulation tool (please replace with the actual one used)
+- File format: `.dae` (Collada 3D file format)
+- Basic animation and object interaction
 
-- **Languages**: Python, SQL, C++, HTML/CSS, JavaScript (basics)
-- **Tools**: Power BI, Excel, VS Code, Jupyter Notebook
-- **Areas**:
-  - AI & Data Science
-  - SQL-based data analysis
-  - Basic programming concepts (Scratch, Python)
-  - Dashboard creation & data visualization
-  - Problem-solving through real-world projects
+## 📁 Files Included
+- `3D.dae` — The main 3D simulation file
+- `simulation.alp` — (Optional) Associated simulation project file, if used with a specific tool
 
-## 📚 Teaching Experience
+## 🚀 How to Use
+1. Open the `.dae` file in a compatible 3D viewer (e.g., Blender or Unity).
+2. Load or configure animations/interactions if available.
+3. Simulate to explore or present the exam setup.
 
-- Head of AI @ GDSC SVU – Delivered 6+ interactive sessions on Python, Machine Learning, and AI basics to over 100 students.
-- NTI Qena Ambassadors – Led campaigns and created simplified technical content for youth.
-- Conducted 1-on-1 mentoring and peer learning initiatives for university students.
-
-## 🧑‍💻 Projects Included
-
-- **Panther Robot**: Real-time AI face recognition and spoof detection system.
-- **Banking System**: SQL + C++ CRUD app simulating 50+ accounts.
-- **Candy Sales Dashboard**: Sales & shipment optimization with SQL, Python, Power BI.
-
-## 📄 Files
-
-- `simulation.alp`: Project simulation file (included as part of my teaching material).
-- `README.md`: This file, summarizing the goals and relevance of the project.
+## 📌 Use Cases
+- Academic demonstration for oral exam structure
+- Student training and mock exams
+- Educational presentations or workshops
 
 ---
-
 **Thank you for reviewing my application!**  
 — *Hadeer Badr Hassan*
+
